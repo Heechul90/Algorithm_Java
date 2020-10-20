@@ -187,11 +187,5 @@ public class HashTable {
 //	        System.out.println(map.remove("this"));
 //	        System.out.println(map.size());
 //	        System.out.println(map.isEmpty());
-
-
-
 	}
-
-}
-
 }
