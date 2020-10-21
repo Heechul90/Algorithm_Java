@@ -182,6 +182,9 @@ public class HashTable {
 
 
 
+
+
+
 	        System.out.println("map size = "+map.size());
 //	        System.out.println(map.remove("this"));
 //	        System.out.println(map.remove("this"));
