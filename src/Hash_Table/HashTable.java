@@ -167,7 +167,6 @@ public class HashTable {
 
 	}
 
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		 Map<String, Integer>map = new Map<>();
@@ -179,9 +178,6 @@ public class HashTable {
 	        map.get("coder");
 	        map.get("this");
 	        map.get("hi");
-
-
-
 
 
 
