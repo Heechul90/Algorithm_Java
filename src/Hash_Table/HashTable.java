@@ -118,6 +118,7 @@ public class HashTable {
 	        return null;
 	    }
 
+
 	    // Adds a key value pair to hash
 	    public void add(K key, V value)
 	    {
@@ -135,6 +136,7 @@ public class HashTable {
 	            }
 	            head = head.next;
 	        }
+
 
 	        // Insert key in chain
 	        size++;
