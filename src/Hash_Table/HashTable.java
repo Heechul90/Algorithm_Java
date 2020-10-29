@@ -138,6 +138,7 @@ public class HashTable {
 	        }
 
 
+
 	        // Insert key in chain
 	        size++;
 	        head = bucketArray.get(bucketIndex);
