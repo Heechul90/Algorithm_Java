@@ -1,5 +1,5 @@
 //Java program to demonstrate implementation of our own hash table with chaining for collision detection
-package Hash_Table;
+package Array.Hash_Table;
 
 import java.util.ArrayList;
 

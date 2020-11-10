@@ -1,4 +1,4 @@
-package GFG;
+package Array.GFG;
 
 // Java program to illustrate creating an array
 // of integers,  puts some values in the array,
